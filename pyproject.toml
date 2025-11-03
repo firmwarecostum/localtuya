@@ -1,3 +1,6 @@
+[tool.setuptools]
+py-modules = []
+
 [tool.black]
 target-version = ["py311"]
 include = 'custom_components/localtuya/.*\.py'
